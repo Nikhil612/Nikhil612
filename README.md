@@ -13,8 +13,8 @@ My  goal is to make the world a better place than I found it to be.
 - :microscope: I am currently working on Model Interpretability and Explainable AI
 - :two_men_holding_hands: I am open to collaborate on Deep Learning related projects.
 - :grin: Pronouns: He/His/Him
-🌱 Currently Solving Problems and learning data to forecast and visualize
-📚 Current course work Datawarehouse & Business intelligence and Data Science Method and Tools
+-🌱 Currently Solving Problems and learning data to forecast and visualize
+- 📚 Current course work Datawarehouse & Business intelligence and Data Science Method and Tools
 </br>
 
 

@@ -15,6 +15,7 @@ My  goal is to make the world a better place than I found it to be.
 - :grin: Pronouns: He/His/Him
 - 🌱 Currently Solving Problems and learning data to forecast and visualize
 - 📚 Current course work Datawarehouse & Business intelligence and Data Science Method and Tools
+- Linkedin : https://www.linkedin.com/in/nikhil-joshi612/
 </br>
 
 

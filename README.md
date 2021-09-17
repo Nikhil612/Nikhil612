@@ -10,7 +10,7 @@ A data scientist in making
 My  goal is to make the world a better place than I found it to be.
 
 
-- :microscope: I am currently working on Model Interpretability and Explainable AI
+- :microscope: I am currently working on MLOPS and Kaggle AI Skunk Works Northeastern
 - :two_men_holding_hands: I am open to collaborate on Deep Learning related projects.
 - :grin: Pronouns: He/His/Him
 - 🌱 Currently Solving Problems and learning data to forecast and visualize
